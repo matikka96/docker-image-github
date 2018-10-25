@@ -1,4 +1,4 @@
-# node-web-server
+# node webserver deploying within Docker
 This is a demo project, which shows how to initialize a simple "hello world" app within docker using Dockerfile.
 Docker needs to be installed on your system.
 
