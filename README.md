@@ -6,10 +6,10 @@ Docker needs to be installed on your system
 
 ## Instructions
 
-1. Download project from Github and build it in Docker.
+1) Download project from Github and build it in Docker.
 RUN: ```docker build -t gitnodeserver https://github.com/matikka96/Dockerfile-demo.git```
 This will create docker image named "gitnodeserver".
 
-2. Final step is to run above image.
+2) Final step is to run above image.
 RUN: ```docker run -p 333:8080 -d gitnodeserver```
 Now your app is seen here: http://localhost:333
