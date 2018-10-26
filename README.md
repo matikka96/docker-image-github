@@ -1,6 +1,6 @@
-# Node.js webserver deployed within Docker
+# Creating docker image from Github with Dockerfile
 This is a demo project, which shows how to initialize a simple "hello world" app within docker using Dockerfile.
-Docker needs to be installed on your system.
+Docker needs to be already installed on your system. Installation link: https://www.docker.com/get-started
 
 ![demo gif](https://github.com/matikka96/node-web-server/blob/master/demo.gif?raw=true)
 
